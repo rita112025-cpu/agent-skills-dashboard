@@ -4,6 +4,8 @@
 
 > 線上版：<https://rita112025-cpu.github.io/agent-skills-dashboard/>
 
+![Agent Skills Dashboard](docs/screenshots/shot-final.png)
+
 ## ✨ 功能
 
 | | |
